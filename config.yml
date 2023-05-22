@@ -1,0 +1,14 @@
+module:
+  mounts:
+    - source: assets
+      target: assets
+    - source: i18n
+      target: i18n
+    - source: layouts
+      target: layouts
+
+# Default
+permalinks:
+  publications_categories: /publications/:slug/
+taxonomies:
+  publications_category: publications_categories
