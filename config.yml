@@ -2,6 +2,8 @@ module:
   mounts:
     - source: assets
       target: assets
+    - source: content
+      target: content
     - source: i18n
       target: i18n
     - source: layouts
@@ -9,6 +11,6 @@ module:
 
 # Default
 permalinks:
-  publications_categories: /publications/:slug/
+  publications_categories: /publications/categories/:slug/
 taxonomies:
   publications_category: publications_categories
