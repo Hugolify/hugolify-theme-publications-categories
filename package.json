@@ -1,24 +1,24 @@
 {
-    "name": "hugolify-theme-publications-categories",
-    "version": "1.0.3",
-    "homepage": "https://www.hugolify.io",
-    "repository": "https://github.com/hugolify/hugolify-theme-publications-categories",
-    "bugs": {
-        "url": "https://github.com/hugolify/hugolify-theme-publications-categories/issues"
-    },
-    "author": {
-        "email": "sebousan@gmail.com",
-        "name": "Sébastien Moulène",
-        "url": "https://www.sebastienmoulene.com/"
-    },
-    "keywords": [
-        "hugolify",
-        "hugo",
-        "hugo-theme",
-        "bootstrap"
-    ],
-    "license": "MIT",
-    "devDependencies": {
-        "@hugolify/prettier-config": "^0.3.1"
-    }
+  "name": "hugolify-theme-publications-categories",
+  "version": "1.0.3",
+  "homepage": "https://www.hugolify.io",
+  "repository": "https://github.com/hugolify/hugolify-theme-publications-categories",
+  "bugs": {
+    "url": "https://github.com/hugolify/hugolify-theme-publications-categories/issues"
+  },
+  "author": {
+    "email": "sebousan@gmail.com",
+    "name": "Sébastien Moulène",
+    "url": "https://www.sebastienmoulene.com/"
+  },
+  "keywords": [
+    "hugolify",
+    "hugo",
+    "hugo-theme",
+    "bootstrap"
+  ],
+  "license": "MIT",
+  "devDependencies": {
+    "@hugolify/prettier-config": "^0.3.1"
+  }
 }
