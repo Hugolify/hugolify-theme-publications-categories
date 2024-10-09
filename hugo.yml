@@ -14,3 +14,8 @@ permalinks:
   publications_categories: /publications/categories/:slug/
 taxonomies:
   publications_category: publications_categories
+
+params:
+  admin:
+    collections:
+      publications_categories: true
