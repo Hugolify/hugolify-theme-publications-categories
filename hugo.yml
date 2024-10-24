@@ -18,4 +18,5 @@ taxonomies:
 params:
   admin:
     collections:
-      publications_categories: true
+      publications_categories:
+        enable: true
