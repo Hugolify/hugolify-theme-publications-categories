@@ -1,0 +1,12 @@
+/* components/publications-expertise.css */
+/*
+ * .publications_categories remaps the full --items-* API onto its --categories-* tokens, so any
+ * value can be tuned from categories.json without touching this file.
+ * Usage: <article class="items publications_categories">
+ */
+@layer components {
+  .publications_categories {
+    --items-min-width: var(--categories-min-width);
+    --items-nav-margin-block-start: var(--categories-nav-margin-block-start);
+  }
+}
