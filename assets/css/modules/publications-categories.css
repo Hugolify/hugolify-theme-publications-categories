@@ -1,0 +1,12 @@
+/* css/modules/publications-categories.css — hugolify-theme-publications-categories entry point */
+
+/* Tokens */
+@import '../tokens/publications-categories.css';
+
+/* Components */
+@import '../components/publications-category.css';
+@import '../components/publications-categories.css';
+
+/* Pages */
+@import '../pages/publications-category.css';
+@import '../pages/publications-categories.css';

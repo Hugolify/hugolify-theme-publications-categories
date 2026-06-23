@@ -1,0 +1,11 @@
+/* components/publications-category.css */
+/*
+ * Usage: <article class="item publications_category">
+ */
+@layer components {
+  .publications_category {
+    .btn {
+      display: none;
+    }
+  }
+}
